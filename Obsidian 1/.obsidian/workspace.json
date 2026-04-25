@@ -6,7 +6,6 @@
       {
         "id": "788228c36465a01a",
         "type": "tabs",
-        "dimension": 68.71846619576185,
         "children": [
           {
             "id": "04ae643b170d721d",
@@ -22,25 +21,23 @@
               "icon": "lucide-file",
               "title": "DVWA-靶场部署"
             }
-          }
-        ]
-      },
-      {
-        "id": "d3045bc8f15cb11b",
-        "type": "tabs",
-        "dimension": 31.281533804238144,
-        "children": [
+          },
           {
-            "id": "324e0b8ab9cf49d9",
+            "id": "3882eacf0b6e13b0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "222222.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "222222"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,15 +201,15 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "04ae643b170d721d",
+  "active": "3882eacf0b6e13b0",
   "lastOpenFiles": [
-    "未命名 1.base",
-    "DVWA-靶场部署.md",
-    "2026-04-25.md",
-    "未命名.base",
-    "未命名.md",
-    "未命名",
     "欢迎.md",
+    "未命名.base",
+    "222222.md",
+    "DVWA-靶场部署.md",
+    "未命名 1.base",
+    "2026-04-25.md",
+    "未命名",
     "未命名.canvas"
   ]
 }
