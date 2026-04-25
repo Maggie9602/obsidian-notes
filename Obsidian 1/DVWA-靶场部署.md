@@ -5,5 +5,10 @@
 ![[Pasted image 20260425170942.png]]
 
 
+2、使用Nessus扫描DVWA靶场
+
+![[Pasted image 20260425173253.png]]
+
+
 
 
