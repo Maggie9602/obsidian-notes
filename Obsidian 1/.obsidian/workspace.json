@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "222222.md",
+                "file": "DVWA-靶场部署.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "222222"
+              "title": "DVWA-靶场部署"
             }
           }
         ],
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "DVWA-靶场部署.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "DVWA-靶场部署 的大纲"
             }
           },
           {
@@ -213,9 +213,9 @@
   },
   "active": "3882eacf0b6e13b0",
   "lastOpenFiles": [
+    "222222.md",
     "欢迎.md",
     "未命名.base",
-    "222222.md",
     "DVWA-靶场部署.md",
     "未命名 1.base",
     "2026-04-25.md",
