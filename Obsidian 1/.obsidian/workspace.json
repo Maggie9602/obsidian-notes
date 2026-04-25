@@ -6,7 +6,7 @@
       {
         "id": "788228c36465a01a",
         "type": "tabs",
-        "dimension": 61.76470588235294,
+        "dimension": 68.71846619576185,
         "children": [
           {
             "id": "04ae643b170d721d",
@@ -14,12 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "欢迎.md",
+                "file": "DVWA-靶场部署.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "欢迎"
+              "title": "DVWA-靶场部署"
             }
           }
         ]
@@ -27,7 +28,7 @@
       {
         "id": "d3045bc8f15cb11b",
         "type": "tabs",
-        "dimension": 38.23529411764706,
+        "dimension": 31.281533804238144,
         "children": [
           {
             "id": "324e0b8ab9cf49d9",
@@ -96,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 217.50247192382812
   },
   "right": {
     "id": "6c2124a24d4e4f79",
@@ -192,6 +193,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -202,11 +204,15 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "04ae643b170d721d",
+  "active": "352e305b291d7d58",
   "lastOpenFiles": [
+    "2026-04-25.md",
+    "DVWA-靶场部署.md",
+    "未命名 1.base",
+    "未命名.base",
+    "未命名.md",
+    "未命名",
     "欢迎.md",
-    "未命名.canvas",
-    "创建链接.md",
-    "2026-04-25.md"
+    "未命名.canvas"
   ]
 }
