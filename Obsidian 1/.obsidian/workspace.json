@@ -6,6 +6,7 @@
       {
         "id": "788228c36465a01a",
         "type": "tabs",
+        "dimension": 61.76470588235294,
         "children": [
           {
             "id": "04ae643b170d721d",
@@ -26,6 +27,7 @@
       {
         "id": "d3045bc8f15cb11b",
         "type": "tabs",
+        "dimension": 38.23529411764706,
         "children": [
           {
             "id": "324e0b8ab9cf49d9",
@@ -201,6 +203,9 @@
   },
   "active": "04ae643b170d721d",
   "lastOpenFiles": [
-    "欢迎.md"
+    "欢迎.md",
+    "未命名.canvas",
+    "创建链接.md",
+    "2026-04-25.md"
   ]
 }
