@@ -6,7 +6,7 @@
 
 ## 知识点
  - [[TCP/IP 三次握手]]
- - [[Linux chmod/chwn 权限管理]] 
+ - [[Linux chmod/chown 权限管理]] 
  - [[Nmap 基础端口扫描]]
 
 
