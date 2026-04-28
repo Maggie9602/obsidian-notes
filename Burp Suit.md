@@ -4,6 +4,9 @@
  - [[TCP/IP 三次握手]]
  - [[Linux chmod/chown 权限管理]] 
  - [[Nmap 基础端口扫描]]
+#### 暴力破解
+![[Pasted image 20260428163234.png]]
+
 
 
 ## 遇到的问题
